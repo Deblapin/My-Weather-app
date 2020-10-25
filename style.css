@@ -31,6 +31,11 @@ li {
   border-radius: 10px;
 }
 
+small {
+  display: block;
+  text-align: center;
+}
+
 .temperature {
   color: #09c1c7;
   font-size: 56px;
